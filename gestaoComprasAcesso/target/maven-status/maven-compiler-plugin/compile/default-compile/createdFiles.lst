@@ -1,0 +1,9 @@
+br\edu\ifnmg\poo\gestaocomprasacesso\Credencial.class
+br\edu\ifnmg\poo\gestaocomprasacesso\GestaoComprasAcesso.class
+br\edu\ifnmg\poo\gestaocomprasacesso\Telefone.class
+br\edu\ifnmg\poo\gestaocomprasacesso\Compra.class
+br\edu\ifnmg\poo\gestaocomprasacesso\Pessoa.class
+br\edu\ifnmg\poo\gestaocomprasacesso\Endereco.class
+br\edu\ifnmg\poo\gestaocomprasacesso\Endereco$TipoLogradouro.class
+br\edu\ifnmg\poo\gestaocomprasacesso\Item.class
+br\edu\ifnmg\poo\gestaocomprasacesso\Produto.class
